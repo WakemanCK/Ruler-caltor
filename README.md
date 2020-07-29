@@ -1,7 +1,5 @@
-<html>
-<body>
 <h2>Privacy Policy</h2>
-<p>Wakeman Chau built the Ruler (with Calc) app as a ad-supported app. This SERVICE is provided by Wakeman Chau and is intended
+<p>Wakeman Chau built the Ruler (with Calc) app as an ad-supported app. This SERVICE is provided by Wakeman Chau and is intended
     for use as is.</p>
 <p>This page is used to inform website visitors regarding my policies with the collection, use, and
     disclosure of Personal Information if anyone decided to use my Service.</p>
@@ -30,7 +28,7 @@
 <p>Cookies are files with small amount of data that is commonly used an anonymous unique identifier.
     These are sent to your browser from the website that you visit and are stored on your devices’s
     internal memory.</p>
-<p>>This Services does not uses these “cookies” explicitly. However, the app may use third party code
+<p>This Services does not uses these “cookies” explicitly. However, the app may use third party code
     and libraries that use “cookies” to collection information and to improve their services. You
     have the option to either accept or refuse these cookies, and know when a cookie is being sent
     to your device. If you choose to refuse our cookies, you may not be able to use some portions of
@@ -76,5 +74,4 @@
 <p><strong>Contact Us</strong></p>
 <p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact
     me.</p>
-</body>
-</html>
+
